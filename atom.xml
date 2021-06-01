@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://superdong94.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-06-01T08:19:04.524Z</updated>
+    <title>superdong</title>
+    <updated>2021-06-01T08:21:14.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://superdong94.github.io"/>
     <link rel="self" href="https://superdong94.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>为天地立心，为生民立命，为往圣继绝学，为万世开太平！</subtitle>
     <logo>https://superdong94.github.io/images/avatar.png</logo>
     <icon>https://superdong94.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, superdong</rights>
     <entry>
         <title type="html"><![CDATA[EdrawMax 10.5.2 下载和安装教程]]></title>
         <id>https://superdong94.github.io/post/edrawmax-1052-xia-zai-he-an-zhuang-jiao-cheng/</id>
