@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://superdong94.github.io</id>
     <title>superdong</title>
-    <updated>2021-06-01T14:28:41.014Z</updated>
+    <updated>2021-06-02T04:36:24.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://superdong94.github.io"/>
     <link rel="self" href="https://superdong94.github.io/atom.xml"/>
@@ -11,17 +11,332 @@
     <icon>https://superdong94.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, superdong</rights>
     <entry>
+        <title type="html"><![CDATA[ Adobe Photoshop 2021 (PS2021) 安装教程]]></title>
+        <id>https://superdong94.github.io/post/Adobe Illustrator 2021 (AI 2021) 安装教程/</id>
+        <link href="https://superdong94.github.io/post/Adobe Illustrator 2021 (AI 2021) 安装教程/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
+<p><strong>Adobe Photoshop</strong>，简称“<strong>PS</strong>”，是由Adobe Systems开发和发行的图像处理软件。<strong>Photoshop</strong>主要处理以像素所构成的数字图像。使用其众多的编修与绘图工具，可以有效地进行图片编辑工作。<strong>ps</strong>有很多功能，在图像、图形、文字、视频、出版等各方面都有涉及。——《百度百科》</p>
+<p>而作为科研人员，我们当然最常用的场景是使用<strong>PS</strong>来处理一些实验图片，如<strong>给SEM图加色</strong>等等，又或者进行<strong>组图</strong>，SCI文章投稿使用。</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
+<p>安装环境：<strong>Windows 10 64 bit</strong></p>
+<p>软件获取：后台回复**<mark>PS2021</mark>**，即可获得软件</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602104252564.png" alt="image-20210602104252564" loading="lazy"></figure>
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
+<p>1.解压软件，获得安装包</p>
+<p>2.打开安装包的这个文件夹</p>
+<p>3.双加<strong>Set-up.exe</strong>运行程序</p>
+<p>4.选择<strong>简体中文</strong>，选择<strong>安装的文件夹</strong></p>
+<p>5.然后软件就正在安装</p>
+<p>6.直到安装完成，会显示软件已经成功安装，点击关闭</p>
+<p>7.点击电脑左下角的按钮</p>
+<p>8.，我们会发现，软件已经安装成功，直接拖拽软件图标到桌面即可</p>
+<figure data-type="image" tabindex="2"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412151145863.png" alt="image-20210412151145863" loading="lazy"></figure>
+<p>9.双击打开软件</p>
+<figure data-type="image" tabindex="3"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412151212864.png" alt="image-20210412151212864" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412151229307.png" alt="image-20210412151229307" loading="lazy"></figure>
+<p>10.赶紧来试试吧，最新版的2021软件！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Adobe Photoshop 2021 (PS 2021) 安装教程]]></title>
+        <id>https://superdong94.github.io/post/Adobe Photoshop 2021 (PS 2021) 安装教程/</id>
+        <link href="https://superdong94.github.io/post/Adobe Photoshop 2021 (PS 2021) 安装教程/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<h6 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h6>
+<p><strong>Adobe Photoshop</strong> ，简称“ <strong>PS</strong> ”，是由Adobe Systems开发和发行的图像处理软件。 <strong>Photoshop</strong> 主要处理以像素所构成的数字图像。使用其众多的编修与绘图工具，可以有效地进行图片编辑工作。<strong>ps</strong> 有很多功能，在图像、图形、文字、视频、出版等各方面都有涉及。——《百度百科》</p>
+<p>而作为科研人员，我们当然最常用的场景是使用<strong>PS</strong>来处理一些实验图片，如 <strong>给SEM图加色</strong> 等等，又或者进行 <strong>组图</strong> ，SCI文章投稿使用。</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
+<p>安装环境： <strong>Windows 10 64 bit</strong></p>
+<p>软件获取：后台回复**<mark>PS2021</mark>**，即可获得软件</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602104356928.png" alt="image-20210602104356928" loading="lazy"></figure>
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
+<p>1.解压软件，获得PS的安装包</p>
+<figure data-type="image" tabindex="2"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153417969.png" alt="image-20210412153417969" loading="lazy"></figure>
+<p>2.打开安装包的这个文件夹</p>
+<figure data-type="image" tabindex="3"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153459784.png" alt="image-20210412153459784" loading="lazy"></figure>
+<p>3.双加 <strong>Set-up.exe</strong> 运行程序</p>
+<figure data-type="image" tabindex="4"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153516594.png" alt="image-20210412153516594" loading="lazy"></figure>
+<p>4.选择 <strong>简体中文</strong> ，选择 <strong>安装的文件夹</strong></p>
+<figure data-type="image" tabindex="5"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153545606.png" alt="" loading="lazy"></figure>
+<p>5.然后软件就正在安装</p>
+<figure data-type="image" tabindex="6"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153617890.png" alt="image-20210412153617890" loading="lazy"></figure>
+<p>6.直到安装完成，会显示软件已经成功安装，点击关闭</p>
+<figure data-type="image" tabindex="7"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153734236.png" alt="image-20210412153734236" loading="lazy"></figure>
+<p>7.点击电脑左下角的按钮</p>
+<figure data-type="image" tabindex="8"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153755606.png" alt="image-20210412153755606" loading="lazy"></figure>
+<p>8.，我们会发现，软件已经安装成功，直接拖拽软件图标到桌面即可</p>
+<figure data-type="image" tabindex="9"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153822650.png" alt="image-20210412153822650" loading="lazy"></figure>
+<p>9.双击打开软件</p>
+<figure data-type="image" tabindex="10"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153918490.png" alt="image-20210412153918490" loading="lazy"></figure>
+<figure data-type="image" tabindex="11"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210412153957565.png" alt="image-20210412153957565" loading="lazy"></figure>
+<p>10.赶紧来试试吧，最新版的PS 2021软件！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Design Expert 13 下载和安装教程]]></title>
+        <id>https://superdong94.github.io/post/Design Expert 13 下载和安装教程/</id>
+        <link href="https://superdong94.github.io/post/Design Expert 13 下载和安装教程/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
+<p>前面推出了Design Expert 10的下载和安装，然后又在网上发现了12和13的软件。作为一个要求自己电脑上所有软件都是最新版的强迫症患者来说，必须得改了，安装 <strong><font color='#7e1671'>Design Expert 13</font></strong> 。当然10版本软件也是可以用的！</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
+<p>**<font color='#7e1671'>名称：</font>**Design Expert 13</p>
+<p>**<font color='#7e1671'>系统：</font>**Windows 10 64 bit</p>
+<p><strong><font color='#7e1671'>获取</font></strong>：后台回复， <strong><font color='#7e1671'>Design Expert 13</font></strong>，我劝你复制一下，不然回复没反应</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602123454550.png" alt="image-20210602123454550" loading="lazy"></figure>
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
+<p>1.解压从百度云获取的软件</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506140843952.png" alt="image-20210506140843952" loading="lazy"></figure>
+<p>2.直接双击 <strong>dx-13.0.1.0-x64_DownLoadLy.iR.msi</strong> 文件</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506140943636.png" alt="image-20210506140943636" loading="lazy"></figure>
+<p>3.点击 <strong>Next</strong>，进行下一步</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141025505.png" alt="image-20210506141025505" loading="lazy"></figure>
+<p>4.设置安装路径，点击 <strong>Next</strong> ，安装完成后点击 <strong>Finish</strong></p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141106614.png" alt="image-20210506141106614" loading="lazy"></figure>
+<p>5.找到刚才解压的 <strong>crack</strong> 文件夹</p>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141441481.png" alt="image-20210506141441481" loading="lazy"></figure>
+<p>6.复制 <strong>dx.exe</strong></p>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141409590.png" alt="image-20210506141409590" loading="lazy"></figure>
+<p>7.粘贴进刚才安装的文件夹内**(第4步的安装路径)**，替换原有的文件</p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141604037.png" alt="image-20210506141604037" loading="lazy"></figure>
+<p>18.然后打开桌面上的软件</p>
+<p><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141644752.png" alt="image-20210506141644752" loading="lazy">19.选择<strong>Accept</strong></p>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141710589.png" alt="image-20210506141710589" loading="lazy"></figure>
+<p>20.选择第三个</p>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141728911.png" alt="image-20210506141728911" loading="lazy"></figure>
+<p>21.选择第一个</p>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141831711.png" alt="image-20210506141831711" loading="lazy"></figure>
+<p>22.安装成功</p>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141850401.png" alt="image-20210506141850401" loading="lazy"></figure>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210506141957456.png" alt="image-20210506141957456" loading="lazy"></figure>
+<p>23.最新版的软件，赶紧来试试吧！</p>
+<p>注意：本软件来源于网络，所提供的软件仅作为公众号粉丝学习使用，勿做商用！请大家支持正版软件！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[athcad 15.0 下载和安装教程]]></title>
+        <id>https://superdong94.github.io/post/Mathcad 15.0 下载和安装教程/</id>
+        <link href="https://superdong94.github.io/post/Mathcad 15.0 下载和安装教程/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
+<p>Mathcad是美国PTC公司旗下的一款工程计算软件，作为工程计算的全球标准，与专有的计算工具和电子表格不同，Mathcad 允许工程师利用详尽的应用数学函数和动态、可感知单位的计算来同时设计和记录工程计算。独特的可视化格式和便笺式界面将直观、标准的数学符号、文本和图形均集成到一个工作表中。 Mathcad采用接近在黑板上写公式的方式让用户表述所要求解的问题，通过底层计算引擎计算返回结果并显示在屏幕上。计算过程近似透明，使用户专注于对问题的思考而不是繁琐的求解步骤。 ——《百度百科》</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
+<p>[测试环境]：Windows 10 64 bit （32 bit也可以试试）</p>
+<p>[下载链接]：公众号内回复：<strong><font color='#008B8B'>Mathcad</font></strong>，最好复制一下，不然错了没有回复的</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602123454550.png" alt="" loading="lazy"></figure>
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
+<p>1.解压拿到的软件</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521141215391.png" alt="image-20210521141215391" loading="lazy"></figure>
+<p>2.然后打开 <strong><font color='#008B8B'>PTC Mathcad 15.0 M050</font></strong> 文件夹</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521141307063.png" alt="image-20210521141307063" loading="lazy"></figure>
+<p>3.双击 <strong><font color='#008B8B'>setup.exe</font></strong></p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521141348083.png" alt="image-20210521141348083" loading="lazy"></figure>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521141419687.png" alt="image-20210521141419687" loading="lazy"></figure>
+<p>4.点击下一步</p>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521141445756.png" alt="image-20210521141445756" loading="lazy"></figure>
+<p>5.选择**<font color='#008B8B'>I accept</font>**</p>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521141542323.png" alt="image-20210521141542323" loading="lazy"></figure>
+<p>6.选择**<font color='#008B8B'>Mathcad</font>**进行安装</p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145150500.png" alt="image-20210521145150500" loading="lazy"></figure>
+<p>7.点击确定</p>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145307630.png" alt="image-20210521145307630" loading="lazy"></figure>
+<p>8.选择第一个，点击下一步</p>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145331721.png" alt="image-20210521145331721" loading="lazy"></figure>
+<p>9.<strong><font color='#008B8B'>定制</font></strong>—<strong><font color='#008B8B'>下一步</font></strong></p>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145405606.png" alt="image-20210521145405606" loading="lazy"></figure>
+<p>10.设置安装文件夹，下一步</p>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145459164.png" alt="image-20210521145459164" loading="lazy"></figure>
+<p>11.点击下一步</p>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145528023.png" alt="image-20210521145528023" loading="lazy"></figure>
+<p>12.安装</p>
+<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145557156.png" alt="image-20210521145557156" loading="lazy"></figure>
+<p>13.正在安装</p>
+<figure data-type="image" tabindex="15"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145613190.png" alt="image-20210521145613190" loading="lazy"></figure>
+<p>14.安装成功后，点击取消</p>
+<figure data-type="image" tabindex="16"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145722341.png" alt="image-20210521145722341" loading="lazy"></figure>
+<p>15.确定</p>
+<figure data-type="image" tabindex="17"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145739943.png" alt="image-20210521145739943" loading="lazy"></figure>
+<p>16.点击确定</p>
+<figure data-type="image" tabindex="18"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145811780.png" alt="image-20210521145811780" loading="lazy"></figure>
+<p>17.点击退出</p>
+<figure data-type="image" tabindex="19"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145842304.png" alt="image-20210521145842304" loading="lazy"></figure>
+<p>18.选择，<strong><font color='#008B8B'>是</font></strong></p>
+<figure data-type="image" tabindex="20"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521145903674.png" alt="image-20210521145903674" loading="lazy"></figure>
+<p>19.打开**<font color='#008B8B'>Crack</font>**文件夹</p>
+<figure data-type="image" tabindex="21"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521151349913.png" alt="image-20210521151349913" loading="lazy"></figure>
+<p>20.复制这个文件</p>
+<figure data-type="image" tabindex="22"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521151436399.png" alt="image-20210521151436399" loading="lazy"></figure>
+<p>21.打开**<font color='#008B8B'>mathcad</font>**的安装文件夹</p>
+<figure data-type="image" tabindex="23"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521151545288.png" alt="image-20210521151545288" loading="lazy"></figure>
+<p>22.替换运行程序</p>
+<figure data-type="image" tabindex="24"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521151705818.png" alt="image-20210521151705818" loading="lazy"></figure>
+<p>23.安装完成，从桌面打开软件</p>
+<figure data-type="image" tabindex="25"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210521151818584.png" alt="image-20210521151818584" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Mathpix snipping tool 下载和安装教程]]></title>
+        <id>https://superdong94.github.io/post/Mathpix snipping tool 下载和安装教程/</id>
+        <link href="https://superdong94.github.io/post/Mathpix snipping tool 下载和安装教程/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
+<p>Mathpix snipping tool是一款特殊的OCR识别工具，与其他OCR识别工具不同的是mathpix snipping tool可以识别数学公式然后将它转换成LaTeX编辑器的代码，然后您就可以在LaTeX 编辑器中使用此代码了，在撰写学术和科学文献时非常有用。</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
+<p>[测试环境]：Windows 10 64 bit （32 bit也可以试试）</p>
+<p>[官方网址]：https://mathpix.com/</p>
+<p>[下载链接]：公众号内回复：<strong><font color='#008B8B'>Mathpix snipping tool</font></strong>，最好复制一下，不然错了没有回复的</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517101742175.png" alt="image-20210517101742175" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602123454550.png" alt="" loading="lazy"></figure>
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
+<p>1.直接双击拿到的软件</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517101817672.png" alt="image-20210517101817672" loading="lazy"></figure>
+<p>2.点击运行</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517101843443.png" alt="image-20210517101843443" loading="lazy"></figure>
+<p>3.选择下一步</p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517101901853.png" alt="image-20210517101901853" loading="lazy"></figure>
+<p>4.直接点击下一步安装</p>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517101927945.png" alt="image-20210517101927945" loading="lazy"></figure>
+<p>5.安装完成</p>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102044627.png" alt="image-20210517102044627" loading="lazy"></figure>
+<p>6.点击创建一个新的账户</p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102105629.png" alt="image-20210517102105629" loading="lazy"></figure>
+<p>7.输入邮箱即可</p>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102201126.png" alt="image-20210517102201126" loading="lazy"></figure>
+<p>8.打开自己的邮箱，进行邮箱验证</p>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102225369.png" alt="image-20210517102225369" loading="lazy"></figure>
+<p>9.点击link，进行验证</p>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102258549.png" alt="image-20210517102258549" loading="lazy"></figure>
+<p>10.验证成功</p>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102330433.png" alt="image-20210517102330433" loading="lazy"></figure>
+<p>11.然后我们返回，点击Log in</p>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102400412.png" alt="image-20210517102400412" loading="lazy"></figure>
+<p>12.登录即可</p>
+<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102446241.png" alt="image-20210517102446241" loading="lazy"></figure>
+<p>13.就可以直接使用了</p>
+<figure data-type="image" tabindex="15"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102556036.png" alt="image-20210517102556036" loading="lazy"></figure>
+<p>14.直接一键识别</p>
+<figure data-type="image" tabindex="16"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517102650762.png" alt="image-20210517102650762" loading="lazy"></figure>
+<p>15.怎么样，还可以吧。学生使用学校邮箱注册，每个月可以使用100次，如果想无限制使用，恐怕得花点钱了！</p>
+<figure data-type="image" tabindex="17"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210517103104714.png" alt="image-20210517103104714" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ Origin Pro 2021的下载和安装教程]]></title>
+        <id>https://superdong94.github.io/post/Origin Pro 2021的下载和安装教程/</id>
+        <link href="https://superdong94.github.io/post/Origin Pro 2021的下载和安装教程/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<h6 id="font-colorred基本fontfont-color008b8b介绍font"><font color='red'>基本</font><font color='#008B8B'>介绍</font></h6>
+<p>Origin在绘图方面的强大，就不说了，我已经写了很多教程了。今天给大家从网上找来了<strong>2021版本</strong>的软件，以方便大家在看我的教程时跟着练习。软件免费，仅用于个人进行知识的学习和软件功能的探索。</p>
+<h4 id="font-colorred软件fontfont-color008b8b获取font"><font color='red'>软件</font><font color='#008B8B'>获取</font></h4>
+<p>测试系统：Windows 10 64 bit</p>
+<p>软件获取：后台回复，<mark><strong>Origin2021</strong></mark>，即可获得软件</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602123250769.png" alt="image-20210602123250769" loading="lazy"></figure>
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
+<p>1.解压获得的软件</p>
+<figure data-type="image" tabindex="2"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416090342690.png" alt="image-20210416090342690" loading="lazy"></figure>
+<p>2.打开文件夹中的<strong>Setup.exe</strong>文件，开始进行安装</p>
+<figure data-type="image" tabindex="3"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416090514797.png" alt="image-20210416090514797" loading="lazy"></figure>
+<figure data-type="image" tabindex="4"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416090608546.png" alt="image-20210416090608546" loading="lazy"></figure>
+<p>3.点击下一步</p>
+<figure data-type="image" tabindex="5"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416090927637.png" alt="image-20210416090927637" loading="lazy"></figure>
+<p>4.选择<strong>我接受</strong>，下一步</p>
+<figure data-type="image" tabindex="6"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091005632.png" alt="image-20210416091005632" loading="lazy"></figure>
+<p>5.安装<strong>OriginPro试用版</strong></p>
+<figure data-type="image" tabindex="7"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091033812.png" alt="image-20210416091033812" loading="lazy"></figure>
+<p>6.选择确定</p>
+<figure data-type="image" tabindex="8"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091107792.png" alt="image-20210416091107792" loading="lazy"></figure>
+<p>7.随便填写点啥</p>
+<figure data-type="image" tabindex="9"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091144765.png" alt="image-20210416091144765" loading="lazy"></figure>
+<p>8.确认信息</p>
+<figure data-type="image" tabindex="10"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091206335.png" alt="image-20210416091206335" loading="lazy"></figure>
+<p>9.选择安装的文件夹</p>
+<figure data-type="image" tabindex="11"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091251757.png" alt="image-20210416091251757" loading="lazy"></figure>
+<p>10.点击下一步</p>
+<figure data-type="image" tabindex="12"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091308040.png" alt="image-20210416091308040" loading="lazy"></figure>
+<p>11.下一步</p>
+<figure data-type="image" tabindex="13"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091321218.png" alt="image-20210416091321218" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091330722.png" alt="image-20210416091330722" loading="lazy"></figure>
+<figure data-type="image" tabindex="15"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091342276.png" alt="image-20210416091342276" loading="lazy"></figure>
+<p>12.开始安装软件</p>
+<figure data-type="image" tabindex="16"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091358903.png" alt="image-20210416091358903" loading="lazy"></figure>
+<p>13.取消勾选，点击完成</p>
+<figure data-type="image" tabindex="17"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091808398.png" alt="image-20210416091808398" loading="lazy"></figure>
+<p>14.找到安装包中的<strong>Crack文件夹</strong>，复制里面的文件</p>
+<figure data-type="image" tabindex="18"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091915613.png" alt="image-20210416091915613" loading="lazy"></figure>
+<figure data-type="image" tabindex="19"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416091935041.png" alt="image-20210416091935041" loading="lazy"></figure>
+<p>15.找到安装软件的那个文件夹，然后复制，替换目标文件</p>
+<figure data-type="image" tabindex="20"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416092021343.png" alt="image-20210416092021343" loading="lazy"></figure>
+<p>16.到此为止，<strong>英文版的Origin软件</strong>已经安装成功，点击左下角就会出现</p>
+<p><strong><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416092125526.png" alt="image-20210416092125526" loading="lazy"></strong></p>
+<p>17.双击打开软件，点击确定</p>
+<figure data-type="image" tabindex="21"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416092238472.png" alt="image-20210416092238472" loading="lazy"></figure>
+<p>18.打开软件就可以使用了**（如果出现360等软件拦截，选择允许即可，或者安装前关闭这些杀毒软件）**</p>
+<figure data-type="image" tabindex="22"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416092703792.png" alt="image-20210416092703792" loading="lazy"></figure>
+<p>19.点开Help-About origin，发现软件安装成功</p>
+<figure data-type="image" tabindex="23"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416092754600.png" alt="image-20210416092754600" loading="lazy"></figure>
+<hr>
+<p>20.如果软件需要<strong>中文版，则继续操作</strong>，按一下键盘上的<strong>win+R</strong>，输入<strong>regedit</strong></p>
+<p><strong><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416092908218.png" alt="image-20210416092908218" loading="lazy"></strong></p>
+<p>21.选择<strong>HKEY_CURRENT_USER，Software</strong></p>
+<figure data-type="image" tabindex="24"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416092948254.png" alt="image-20210416092948254" loading="lazy"></figure>
+<p>22.选择<strong>OriginLab</strong>下的<strong>Origin9.8</strong></p>
+<figure data-type="image" tabindex="25"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416093122026.png" alt="image-20210416093122026" loading="lazy"></figure>
+<p>23.右击，新建，字符串值</p>
+<figure data-type="image" tabindex="26"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416093217504.png" alt="image-20210416093217504" loading="lazy"></figure>
+<p>24.填入<strong>Language</strong></p>
+<p><strong><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416093304388.png" alt="image-20210416093304388" loading="lazy"></strong></p>
+<p>25.然后双击打开，<strong>填写C</strong>，确定</p>
+<p><strong><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416093333352.png" alt="image-20210416093333352" loading="lazy"></strong></p>
+<p>26.<strong>重新打开软件</strong>看看变化，就变成了中文</p>
+<figure data-type="image" tabindex="27"><img src="http://superdong.oss-cn-beijing.aliyuncs.com/img/image-20210416093512172.png" alt="image-20210416093512172" loading="lazy"></figure>
+<p>27.安装完毕，尽情享用吧！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Origin水印如何去除？]]></title>
+        <id>https://superdong94.github.io/post/Origin水印如何去除？/</id>
+        <link href="https://superdong94.github.io/post/Origin水印如何去除？/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<p>#####<font color='red'>文件</font><font color='#008B8B'>介绍</font></p>
+<p>Origin是由OriginLab公司开发的一个科学绘图、数据分析软件，支持在Microsoft Windows下运行。Origin支持各种各样的2D/3D图形。Origin中的数据分析功能包括统计，信号处理，曲线拟合以及峰值分析。</p>
+<p><strong><font color='#008B8B'>在Origin2019版本，甚至前后的两个版本，有时候导出图片的时候会出现水印，这个问题怎么解决呢？</font></strong></p>
+<p>那就是使用一个名叫**<font color='#008B8B'>Origin.exe</font><strong>的文件即可，</strong><font color='#008B8B'>放在安装文件夹下，重新导出图，就没有水印了</font>**！</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210527193003983.png" alt="image-20210527193003983" loading="lazy"></figure>
+<h4 id="font-colorred文件fontfont-color008b8b下载font"><font color='red'>文件</font><font color='#008B8B'>下载</font></h4>
+<p>使用对象：Origin软件</p>
+<p>下载链接：公众号后台回复：<strong><font color='#008B8B'>Origin去水印</font></strong>，即可获得该文件</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602123345123.png" alt="image-20210602123345123" loading="lazy"></figure>
+<h4 id="font-colorred文件fontfont-color008b8b安装font"><font color='red'>文件</font><font color='#008B8B'>安装</font></h4>
+<p>1.找到桌面上的Origin图标，右击，打开文件所在的位置</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210527193242766.png" alt="image-20210527193242766" loading="lazy"></figure>
+<p>2.将该文件复制进来即可，不需要额外做其他修改</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210527193411361.png" alt="image-20210527193411361" loading="lazy"></figure>
+<p>3.双击一下**<font color='#008B8B'>Origin.exe</font>**文件，是没有任何变化的。然后，重新打开作图文件，将自己的实验图导出，你会发现，水印神奇的没了。导出图，就没有水印了！</p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210527193545134.png" alt="image-20210527193545134" loading="lazy"></figure>
+<p>4.赶紧来试试吧，去掉你的水印吧！</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SPSS 26下载和安装教程]]></title>
         <id>https://superdong94.github.io/post/SPSS 26 下载和安装教程/</id>
         <link href="https://superdong94.github.io/post/SPSS 26 下载和安装教程/">
         </link>
         <updated>2021-06-01T13:54:54.000Z</updated>
-        <content type="html"><![CDATA[<h5 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h5>
-<p><strong><font color='#008B8B'>SPSS</font><strong>为IBM公司推出的一系列用于</strong><font color='#008B8B'>统计学分析运算</font></strong>、<strong><font color='#008B8B'>数据挖掘</font></strong>、**<font color='#008B8B'>预测分析</font><strong>和</strong><font color='#008B8B'>决策支持任务</font>**的软件产品及相关服务的总称，有Windows和Mac OS X等版本。</p>
-<h5 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h5>
+        <content type="html"><![CDATA[<h4 id="font-colorred软件fontfont-color008b8b介绍font"><font color='red'>软件</font><font color='#008B8B'>介绍</font></h4>
+<p><strong><font color='#008B8B'>SPSS</font></strong> 为IBM公司推出的一系列用于 <strong><font color='#008B8B'>统计学分析运算</font></strong>、<strong><font color='#008B8B'>数据挖掘</font></strong>、<strong><font color='#008B8B'>预测分析</font></strong> 和 <strong><font color='#008B8B'>决策支持任务</font></strong> 的软件产品及相关服务的总称，有Windows和Mac OS X等版本。</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
 <p>[测试环境]：Windows 10 64 bit （32 bit也可以试试）</p>
 <p>[下载链接]：公众号内回复：<strong><font color='#008B8B'>SPSS 26</font></strong>，最好复制一下，不然错了没有回复的</p>
-<h5 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h5>
+<img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210601222806948.png" alt="image-20210601222806948" style="zoom: 50%;" />
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
 <p>1.解压从百度云下载的软件（文件较大，解压比较慢）</p>
 <figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210513202458408.png" alt="image-20210513202458408" loading="lazy"></figure>
 <p>2.直接双击**<font color='#008B8B'>IBM SPSS Statistics v26.0</font><strong>文件夹下的</strong><font color='#008B8B'>Windows</font><strong>文件夹中的执行文件</strong><font color='#008B8B'>setup.exe</font>**</p>
@@ -60,12 +375,108 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[EdrawMax 10.5.2 下载和安装教程]]></title>
-        <id>https://superdong94.github.io/post/edrawmax-1052-xia-zai-he-an-zhuang-jiao-cheng/</id>
-        <link href="https://superdong94.github.io/post/edrawmax-1052-xia-zai-he-an-zhuang-jiao-cheng/">
+        <title type="html"><![CDATA[ScienceSlides的安装]]></title>
+        <id>https://superdong94.github.io/post/ScienceSlides的安装/</id>
+        <link href="https://superdong94.github.io/post/ScienceSlides的安装/">
         </link>
-        <updated>2021-06-01T07:33:54.000Z</updated>
-        <content type="html"><![CDATA[<p>亿图图示是一个简单易用的图形表达工作台，既能实现流程图、架构图、工程图、思维导图等数百种专业领域图形图表的绘制，又能提供一个白板进行头脑风暴和任意编排，轻松实现数据和创意的可视化呈现。支持Windows、Mac、Linux及网页版，一端创作，多端同步。</p>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>ScienceSlides</strong>是一个提供大部分生物医学素材的这么一个<strong>PPT插件</strong>，可以方便的直接从<strong>PPT</strong>插入进来，进行编辑。我昨天安装试了一下，还行，用起来也比较容易。对于刚上手的小白来说，可以快速的拼接出自己想要的图。对于想要快速成图的科研人员来说，也是非常有用。所以，就实测了一下，写了教程。</p>
+<h4 id="安装教程">安装教程</h4>
+<p>1.选择电脑版本对应的安装文件，这里以 <strong>win 10系统，2019版PPT，32bit</strong> 进行测试(电脑是64bit的也安装32bit)</p>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/03/21/4oB1bYuOsxJ8n3X.png" alt="image-20210321205543111" loading="lazy"></figure>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2021/03/21/nIA1mVGJhozNW3s.png" alt="image-20210321210825914" loading="lazy"></figure>
+<p>2.序列号按照如下填写（ScienceSlides2016密钥（CD key）：<strong>18CB-08A1-51EC-0305</strong>，填写这里的时候不要手打。)</p>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2021/03/21/S4coAQyhYjEdwk8.png" alt="image-20210321205655640" loading="lazy"></figure>
+<p>3.选择磁盘对应的文件夹</p>
+<figure data-type="image" tabindex="4"><img src="https://i.loli.net/2021/03/21/EbfHWhPQ49Knjax.png" alt="image-20210321205813178" loading="lazy"></figure>
+<p>4.安装中</p>
+<figure data-type="image" tabindex="5"><img src="https://i.loli.net/2021/03/21/xsgmMrnHlBZov72.png" alt="image-20210321205959647" loading="lazy"></figure>
+<p>5.安装完成</p>
+<figure data-type="image" tabindex="6"><img src="https://i.loli.net/2021/03/21/UNknpqKMsPS3adB.png" alt="image-20210321210012738" loading="lazy"></figure>
+<p>6.打开一个PPT文件</p>
+<figure data-type="image" tabindex="7"><img src="https://i.loli.net/2021/03/21/njLxw8Ndf6GU9Tp.png" alt="image-20210321210054655" loading="lazy"></figure>
+<p>7.我们会发现顶部有一个加载项</p>
+<figure data-type="image" tabindex="8"><img src="https://i.loli.net/2021/03/21/RF1BNQ4spLrYxhk.png" alt="image-20210321214405476" loading="lazy"></figure>
+<p>8.点开看看，选择do it late</p>
+<figure data-type="image" tabindex="9"><img src="https://i.loli.net/2021/03/21/dTFQUkAZnD7pegw.png" alt="image-20210321214452816" loading="lazy"></figure>
+<p>9.然后就会出现几大板块</p>
+<figure data-type="image" tabindex="10"><img src="https://i.loli.net/2021/03/21/QEPRZlF7vy4uNtx.png" alt="image-20210321214536663" loading="lazy"></figure>
+<p>10.比如我们选择通用的素材里面的细胞部分，然后点击插入展示</p>
+<figure data-type="image" tabindex="11"><img src="https://i.loli.net/2021/03/21/w5IB2hSL7cxgzno.png" alt="image-20210321214615636" loading="lazy"></figure>
+<p>11.此时PPT中就出现了这些素材</p>
+<figure data-type="image" tabindex="12"><img src="https://i.loli.net/2021/03/21/8VwPinypUIBvZ3z.png" alt="image-20210321214708927" loading="lazy"></figure>
+<p>12.然后选中，取消分组，我们可以对其进行修改，比如换个颜色之类的</p>
+<figure data-type="image" tabindex="13"><img src="https://i.loli.net/2021/03/21/ho3GSIjsNKl7vzn.png" alt="image-20210321214806777" loading="lazy"></figure>
+<figure data-type="image" tabindex="14"><img src="https://i.loli.net/2021/03/21/P5QB9rkjsuIylYd.png" alt="image-20210321215024923" loading="lazy"></figure>
+<p>13.对于这些素材的使用，<strong>小编建议以下操作，以防止和别人撞车：</strong></p>
+<ul>
+<li><strong>对其形状进行放大或者缩小，或者拉伸</strong></li>
+<li><strong>挪动素材位置，旋转方向</strong></li>
+<li><strong>更换素材颜色</strong></li>
+</ul>
+<p>然后，这些素材就成了你的了。怎么样，赶紧来获取吧！</p>
+<p><strong>素材获取：<strong>微信公众号后台回复</strong>ScienceSlides2016</strong> (我劝你复制一下)</p>
+<figure data-type="image" tabindex="15"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210602123454550.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stata16 MP版 下载和安装教程]]></title>
+        <id>https://superdong94.github.io/post/Stata16 MP版 下载和安装教程/</id>
+        <link href="https://superdong94.github.io/post/Stata16 MP版 下载和安装教程/">
+        </link>
+        <updated>2021-06-01T13:54:54.000Z</updated>
+        <content type="html"><![CDATA[<p>#####<font color='red'>软件</font><font color='#008B8B'>介绍</font></p>
+<p>Stata是一款专业的数据统计分析管理软件，功能强大、操作简单、界面美观、小巧实用，适用于各大企业，特别是用于市场调查方面的数据。它可以对提供的数据进行快速的分析，并且支持多种数据，能自动识别数据资源，帮助用户更快速高效的完成有关数据统计与分析的各项工作，使其工作更加得心应手。</p>
+<p>软件具有作图功能、统计功能、程序设计、功能列表、网络功能等诸多实用功能，采用最具亲和力的窗口接口，使用者自行建立程序时，能提供具有直接命令式的语法。</p>
+<p>——来源于网络</p>
+<h4 id="font-colorred软件fontfont-color008b8b下载font"><font color='red'>软件</font><font color='#008B8B'>下载</font></h4>
+<p>[测试环境]：Windows 10 64 bit （32 bit也可以试试）</p>
+<p>[下载链接]：公众号内回复：<strong><font color='#008B8B'>Stata16 </font></strong>，最好复制一下，不然错了没有回复的</p>
+<h4 id="font-colorred软件fontfont-color008b8b安装font"><font color='red'>软件</font><font color='#008B8B'>安装</font></h4>
+<p>1.解压拿到的软件</p>
+<figure data-type="image" tabindex="1"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530165415452.png" alt="image-20210530165415452" loading="lazy"></figure>
+<p>2.双击**<font color='#008B8B'>SetupStata16.exe</font>**运行程序</p>
+<figure data-type="image" tabindex="2"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530165532456.png" alt="image-20210530165532456" loading="lazy"></figure>
+<p>3.点击下一步</p>
+<figure data-type="image" tabindex="3"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530165633855.png" alt="image-20210530165633855" loading="lazy"></figure>
+<p>4.选择**<font color='#008B8B'>I accept</font>**，下一步</p>
+<figure data-type="image" tabindex="4"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530165650977.png" alt="image-20210530165650977" loading="lazy"></figure>
+<p>5.继续Next，也可以更改一下这个名字，都可以</p>
+<figure data-type="image" tabindex="5"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530165736134.png" alt="image-20210530165736134" loading="lazy"></figure>
+<p>6.<strong><font color='#008B8B'>勾选第一个StataMP</font></strong>，进行安装</p>
+<figure data-type="image" tabindex="6"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530165847592.png" alt="image-20210530165847592" loading="lazy"></figure>
+<p>7.选择安装文件夹</p>
+<figure data-type="image" tabindex="7"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530165953552.png" alt="image-20210530165953552" loading="lazy"></figure>
+<p>8.点击Next</p>
+<figure data-type="image" tabindex="8"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170017043.png" alt="image-20210530170017043" loading="lazy"></figure>
+<p>9.选择**<font color='#008B8B'>第一个选项</font>**，Next</p>
+<figure data-type="image" tabindex="9"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170036942.png" alt="image-20210530170036942" loading="lazy"></figure>
+<p>10.进行安装</p>
+<figure data-type="image" tabindex="10"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170113834.png" alt="image-20210530170113834" loading="lazy"></figure>
+<p>11.正在安装（安装过程比较慢，稍等片刻）</p>
+<figure data-type="image" tabindex="11"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170139918.png" alt="image-20210530170139918" loading="lazy"></figure>
+<p>12.点击**<font color='#008B8B'>完成</font>**</p>
+<figure data-type="image" tabindex="12"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170216418.png" alt="image-20210530170216418" loading="lazy"></figure>
+<p>13.返回一开始解压的文件夹内，找到**<font color='#008B8B'>Crack文件夹</font>**</p>
+<figure data-type="image" tabindex="13"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170314306.png" alt="image-20210530170314306" loading="lazy"></figure>
+<p>14.复制这两个文件</p>
+<figure data-type="image" tabindex="14"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170334411.png" alt="image-20210530170334411" loading="lazy"></figure>
+<p>15.粘贴在安装文件夹下（第7步所选择的安装文件夹），<strong><font color='#008B8B'>替换相应的文件</font></strong></p>
+<figure data-type="image" tabindex="15"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170443501.png" alt="image-20210530170443501" loading="lazy"></figure>
+<p>16.打开软件，直接双击即可</p>
+<figure data-type="image" tabindex="16"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170546933.png" alt="image-20210530170546933" loading="lazy"></figure>
+<p>17.右击，以管理员身份运行</p>
+<figure data-type="image" tabindex="17"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170654165.png" alt="image-20210530170654165" loading="lazy"></figure>
+<p>18.出现这个，选择确定</p>
+<figure data-type="image" tabindex="18"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170741587.png" alt="image-20210530170741587" loading="lazy"></figure>
+<p>19.点击下一步，继续</p>
+<figure data-type="image" tabindex="19"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170804751.png" alt="image-20210530170804751" loading="lazy"></figure>
+<p>20.点击完成</p>
+<figure data-type="image" tabindex="20"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170832195.png" alt="image-20210530170832195" loading="lazy"></figure>
+<p>21.在新弹出的软件页面中，<strong><font color='#008B8B'>选择禁止自动检查更新</font></strong></p>
+<figure data-type="image" tabindex="21"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530170926332.png" alt="image-20210530170926332" loading="lazy"></figure>
+<p>22.然后，软件就可以使用了</p>
+<figure data-type="image" tabindex="22"><img src="https://superdong.oss-cn-beijing.aliyuncs.com/image-20210530171017337.png" alt="image-20210530171017337" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
